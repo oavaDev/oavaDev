@@ -1,6 +1,12 @@
-- 👋 Hi, I’m Omar Vega
-- 👀 Currently learning React
-- ✨ Knowledge in Html, Css, scss, Javascript, NodeJs
+- 👋 Hi, I’m Omar Vega and I'm heading into the ways of a Full-stack developer
+- 👀 Currently learning Mongoose
+- ✨ Knowledge in 
+  --Html
+  --Css and preprocessors such as scss
+  --Javascript
+  --NodeJs
+  --ReactJs
+  --Redux
 
 
 <!---
