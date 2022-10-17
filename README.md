@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Vega and I'm heading into the ways of a Full-stack developer
 - 👀 Currently learning Typescript
-- ✨ Knowledge in Html | Css (scss) | Javascript |  ReactJs | Redux | NodeJs | MongoDB | Mongoose |
+- ✨ Knowledge in Html | Css (scss) | Javascript |  ReactJs | Redux | NodeJs | MongoDB | Mongoose | Scrum 
 
 
 <!---
