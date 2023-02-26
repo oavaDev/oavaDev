@@ -22,5 +22,6 @@ const Omar = {
   }
 }
 ```
+Readme inspired by:  <a href="https://github.com/Thaiane" target="_blank">Thaiane</a>
 
 ---
