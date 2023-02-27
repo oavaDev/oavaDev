@@ -11,10 +11,11 @@
 
 ```javascript
 const Omar = {
-  code: ["React", "Javascript", "Typescript", "HTML", "CSS", "Java"],
-  tools: ["React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"],
+  code: ["Typescript", "Javascript", "HTML", "CSS", "Java"],
+  tools: ["React", "Redux", "NodeJS","ExpressJS", "TailwindCSS"],
   architecture: ["microservices", "MVC"],
-  database: ["MongoDB", "SQLServer"],
+  database: ["MongoDB", "MySQL"],
+  versionControlTools: ["GIT", "GitHub"],
   agile: "SCRUM",
   learning: {
     NextJS: "In process...",
