@@ -62,11 +62,9 @@
   
 ### :fire: My Stats
   
+[![Oava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oavaDeV&show_icons=true&theme=transparent)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oavaDev&theme=transparent)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oavaDev&layout=compact&theme=transparent)](https://github.com/oavaDev/github-readme-stats)
-
-[![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oavaDev&layout=compact&theme=transparent)](https://github.com/oavaDev/github-readme-stats)
 
 </div> 
 
