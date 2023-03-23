@@ -61,8 +61,7 @@
 <div align="center">
   
 ### :fire: My Stats
-  
-[![Oava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oavaDeV&show_icons=true&theme=transparent)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oavaDev&theme=transparent)](https://git.io/streak-stats)
 
 
