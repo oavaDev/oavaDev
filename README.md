@@ -58,19 +58,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 </div>
-
-  
-
-  
-<div align="center">
-  
-### :fire: My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oavaDev&theme=transparent)](https://git.io/streak-stats)
-
-
-</div> 
-
 ---
 Readme inspired by:  <a href="https://github.com/Thaiane" target="_blank">Thaiane</a> and <a href="https://github.com/MelvinAguilar" target="_blank">Melvin Aguilar</a>
 
